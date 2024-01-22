@@ -43,3 +43,6 @@ The game requires an IDE that supports Java to run the game. Players can run the
 
 ## Conclusion:
 Mario Pixel is not just a game; it's a digital escape designed to offer a delightful and stress-free experience. With its free-to-play model, simple controls, and entertaining gameplay, Mario Pixel aims to bring joy and relaxation to players of all ages. Whether you're seeking a quick break or a prolonged gaming session, Mario Pixel invites you to immerse yourself in pixelated nostalgia and enjoy the journey through its stress-relieving landscapes.
+
+<img width="998" alt="Screenshot 2024-01-21 at 11 25 34 PM" src="https://github.com/anhadh3101/mario_pixel/assets/118553836/243dee4b-e865-4cad-b360-553237b27043">
+
